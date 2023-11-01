@@ -1,0 +1,26 @@
+*.csv
+OrderedArrayExample_Turno1/*.csv
+OrderedArrayExample_Turno1/*.docx
+OrderedArrayExample_Turno1/*.pdf
+
+
+#PER PROGETTO C
+OrderedArrayExample_Turno1/OrderedArray_C/src/unity*
+OrderedArrayExample_Turno1/OrderedArray_C/bin/
+OrderedArrayExample_Turno1/OrderedArray_C/build/
+ex1/src/unity*
+ex1/.vscode/
+ex1/*.csv
+ex1/src/.vscode/
+ex2/src/unity*
+ex2/.vscode/
+ex2/*.csv
+ex2/*.txt
+ex2/src/.vscode/
+
+#PER PROGETTO JAVA
+OrderedArrayExample_Turno1/OrderedArray_Java/*.jar
+OrderedArrayExample_Turno1/OrderedArray_Java/classes/
+ex3-4/src/test/*.txt
+ex3-4/src/main/*.txt
+ex3-4/build/*txt
